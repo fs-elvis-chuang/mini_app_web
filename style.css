@@ -2,7 +2,7 @@ html {
   background-color: #00539f;
 }
 body {
-  width: 600px;
+  width: 960px;
   margin: 0 auto;
   background-color: #ff9500;
   padding: 0 20px 20px 20px;
@@ -19,7 +19,7 @@ h1 {
 
 p,
 li {
-  font-size: 26px;
+  font-size: 12px;
   line-height: 2;
   letter-spacing: 1px;
 }
